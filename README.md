@@ -27,6 +27,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**!
 </br>
+</br>
 
 <div align="center">
     <a href="https://allcontributors.org">
@@ -35,7 +36,7 @@ Feel free to **file a new issue** with a respective title and description on the
 </div>
 
 </br>
-</br>
+
 <table>
   <tr>
        <td align="center"><a href="https://github.com/AnanyaNegi"><img src="/images/ananya.jpeg" width="210px;" height="230px;" alt=""/><br /><sub><b>ANANYA NEGI</b></sub></a><br /><p align="center">
