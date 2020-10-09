@@ -19,6 +19,13 @@
         
     
 </p>
+
+## ❤️&nbsp; Community and Contributions
+When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change. 
+
+Please note we have a code of conduct, please follow it in all your interactions with the project.
+
 <div align="center">
     <a href="https://allcontributors.org">
         <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
