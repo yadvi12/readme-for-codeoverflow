@@ -14,7 +14,7 @@
 </p>
 <p align="center">
     <a href="https://sulu.io/" target="_blank">
-        <img width="15%" height="20%" src="vl.png" alt="Sulu logo">
+        <img width="20%" height="40%" src="vl.png" alt="Sulu logo">
     </a>
         
     
