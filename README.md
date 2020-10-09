@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://sulu.io/" target="_blank">
-        <img width="5%" height="5%" src="mlh2.png" alt="Sulu logo">
+        <img width="15%" height="15%" src="mlh2.png" alt="Sulu logo">
     </a>
 </p>
 <h1 align="center"><b> TEAM CODEOVERFLOW </b></h1>
