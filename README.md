@@ -6,6 +6,6 @@
 </p>
 <p align="center">
     <a href="https://sulu.io/" target="_blank">
-        <img width="30%" src="v.png" alt="Sulu logo">
+        <img width="30%" height="30%" src="v.png" alt="Sulu logo">
     </a>
 </p>
