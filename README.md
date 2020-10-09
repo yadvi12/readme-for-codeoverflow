@@ -14,9 +14,9 @@
 </p>
 <p align="center">
     <a href="https://sulu.io/" target="_blank">
-        <img width="15%" height="2%" src="v1.png" alt="Sulu logo">
+        <img width="15%" height="2%" src="vl.png" alt="Sulu logo">
     </a>
-        <h3 align="center"><b>We Build Your Talk..</b></h3>
+        
     
 </p>
 
