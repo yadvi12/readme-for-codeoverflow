@@ -25,8 +25,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## 🤝&nbsp; Found a bug? Missing a specific feature?
 
-Feel free to **file a new issue** with a respective title and description on the the [sulu/sulu](https://github.com/sulu/sulu/issues) repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our [contribution guidelines](http://docs.sulu.io/en/latest/developer/contributing/) to find out about our coding standards.
-
+Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**!
 <div align="center">
     <a href="https://allcontributors.org">
         <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
