@@ -15,9 +15,8 @@
     <a href="" target="_blank">
         <img width="30%" height="50%" src="vl.png" alt="">
     </a>
-        
-    
-</p>
+        </p>
+
 ## Overview
 
 
