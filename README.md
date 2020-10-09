@@ -21,7 +21,7 @@
 </p>
 <div align="center">
     <a href="https://allcontributors.org">
-        <img src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
+        <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
 
