@@ -20,12 +20,14 @@
     
 </p>
 
-## ❤️&nbsp; Community and Contributions
+## 💙&nbsp; Community and Contributions
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, please follow it in all your interactions with the project.
 
-## 🤝&nbsp; Found a bug? Missing a specific feature?
+## 🙌&nbsp; Found a bug? Missing a specific feature?
 
 Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**!
+
+
 <div align="center">
     <a href="https://allcontributors.org">
         <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
