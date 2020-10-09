@@ -24,6 +24,9 @@
         <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
     </a>
 </div>
+<table>
+  <tr>
+    <td align="center"><a href="https://kentcdodds.com"><img src="/images/ananya.jpeg" width="100px;" alt=""/><br /><sub><b>ANANYA NEGI</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
 
 
 
