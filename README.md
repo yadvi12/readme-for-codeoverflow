@@ -17,7 +17,7 @@
         <img width="15%" height="15%" src="v1.png" alt="Sulu logo">
     </a>
 </p>
-<p align="center"><b>We Build Your Talk..</b></p>
+<h2 align="center"><b>We Build Your Talk..</b></h2>
 
 
 
