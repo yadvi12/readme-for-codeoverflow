@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <a href="https://sulu.io/" target="_blank">
-        <img width="50%" height="20%" src="v1.png" alt="Sulu logo">
+        <img width="50%" height="15%" src="v1.png" alt="Sulu logo">
     </a>
 </p>
 
