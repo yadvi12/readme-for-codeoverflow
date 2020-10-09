@@ -5,6 +5,7 @@
     </a>
 </p>
 <h1 align="center"><b><u> TEAM CODEOVERFLOW INITIATIVE </u></b></h1>
+<hr>
 
 <p align="center">
     <a href="https://sulu.io/" target="_blank">
