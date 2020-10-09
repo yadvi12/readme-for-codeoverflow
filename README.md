@@ -8,7 +8,7 @@
 <h1 align="center"><b> INITIATIVE </b></h1>
 <p align="center">
     <a href="https://sulu.io/" target="_blank">
-        <img width="15%" height="15%" src="img.png" alt="Sulu logo">
+        <img width="20%" height="20%" src="img.png" alt="Sulu logo">
     </a>
 </p>
 <p align="center">
