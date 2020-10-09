@@ -29,6 +29,10 @@ When contributing to this repository, please first discuss the change you wish t
 ## Found a bug? Missing a specific feature?
 
 Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**!
+
+## License
+The Project is released under the under terms of the [MIT License](LICENSE).
+
 </br>
 </br>
 
