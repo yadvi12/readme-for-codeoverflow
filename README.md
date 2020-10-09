@@ -4,7 +4,7 @@
         <img width="15%" height="15%" src="mlh2.png" alt="Sulu logo">
     </a>
 </p>
-<h1 align="center"><b><u> TEAM CODEOVERFLOW INITIATIVE </u></b></h1>
+<h1 align="center"><b> TEAM CODEOVERFLOW INITIATIVE </b></h1>
 <hr>
 
 <p align="center">
