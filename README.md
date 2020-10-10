@@ -15,12 +15,11 @@
     <a href="" target="_blank">
         <img width="30%" height="50%" src="vl.png" alt="">
     </a>
-    
+   </p>
+        
   [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
   
-  </p>
-        
-
+  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## Overview
 
