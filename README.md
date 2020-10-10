@@ -17,7 +17,7 @@
     </a>
         </p>
         
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-JavaScript](http://ForTheBadge.com/images/badges/made-with-JavaScript.svg)](https://www.javascript.com/)
 
 ## Overview
 
