@@ -23,6 +23,11 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 5. Make sure your code lints.
 6. Issue that pull request!
 
+## Issues:
+
+- Do not open an issue until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
+- Do not open the issue if the bug is a security vulnerability.
+
 ## Code of Conduct
 
 ### Our Pledge
