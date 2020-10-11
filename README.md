@@ -40,6 +40,7 @@ How long is your child’s workweek? Thirty hours? Forty? Would it surprise you 
 
 ## Solution
 
+Our Web-UI is the solution💙. So it will help students to complete their assignments 
 
 
 ## How to get started?
