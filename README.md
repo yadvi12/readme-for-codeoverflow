@@ -40,7 +40,10 @@ We hear a lot of stuff when students don’t want do their homework or assignmen
 How long is your child’s workweek? Thirty hours? Forty? Would it surprise you to learn that some elementary school kids have workweeks comparable to adults’ schedules? For most children, mandatory homework assignments push their workweek far beyond the school day and deep into what any other laborers would consider overtime. Even without sports or music or other school-sponsored extracurriculars, the daily homework slog keeps many students on the clock as long as lawyers, teachers, medical residents, truck drivers and other overworked adults. Is it any wonder that,deprived of the labor protections that we provide adults, our kids are suffering an epidemic of disengagement, anxiety and depression?
 
 ## Solution
+
+<div align = "center">
  <img width="40%" height="30%" src="/images/homework-removebg-preview.png" alt="">
+</div>
 
 ## How to get started?
 
