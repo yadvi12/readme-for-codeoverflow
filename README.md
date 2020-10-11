@@ -4,7 +4,9 @@
     </a>
 </p>
 <h1 align="center"><b> TEAM CODEOVERFLOW INITIATIVE </b></h1>
-
+<div align = "center">
+ <img width="40%" height="30%" src="/images/homework-removebg-preview.png" alt="">
+</div>
 
 <p align="center">
     <a href="" target="_blank">
@@ -41,9 +43,7 @@ How long is your child’s workweek? Thirty hours? Forty? Would it surprise you 
 
 ## Solution
 
-<div align = "center">
- <img width="40%" height="30%" src="/images/homework-removebg-preview.png" alt="">
-</div>
+
 
 ## How to get started?
 
